@@ -1,0 +1,39 @@
+IsEmpty
+Append 4
+Append 2
+Append 5
+Append 4
+Append 2 
+Append 8
+Append 0
+Append 1
+Append 9
+Append 20
+Append 19
+Append 17
+Append 18
+Append 16
+Append 15 
+Append 14
+Append 10
+Append 12 
+
+GetLength
+GetIndex 10
+Print
+
+Contains 20
+Remove 20
+Remove 19
+Remove 18
+Remove 17
+Remove 16
+Remove 15
+Remove 14
+
+Contains 20
+GetLength
+GetIndex 10
+Print
+
+Quit
